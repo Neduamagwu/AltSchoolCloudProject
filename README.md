@@ -33,4 +33,5 @@ sudo systemctl enable nginx*
 
 # Step 3:
 Let's create the HTML file, it has been pushed to this repository
-- First we will 
+- First we create a directory in the ubuntu directory
+
