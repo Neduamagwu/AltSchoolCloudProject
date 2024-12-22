@@ -38,4 +38,6 @@ Let's create the HTML file, it has been pushed to this repository
 - I opened another terminal where my .pem file is located in my laptop and copied the html directory to the directory I just made in my ubuntu folder using: scp -i "AltSchool_Keypair_2.pem" -r AltSchoolProject ubuntu@34.242.216.26:altschoolproject/
 ![image alt](https://github.com/Neduamagwu/AltSchoolCloudProject/blob/d7d6d795f3a6446b99c4d1a95b0da2d91511b346/copyfiletoUbuntu.JPG)
 - Navigate to nginx root directory (cd /var/www/html)
-![image alt]()
+![image alt](https://github.com/Neduamagwu/AltSchoolCloudProject/blob/a20fa2f550215acff94a99ab713a28b043500bf7/cdvar.JPG)
+- Move the file to the Nginx web root directory: sudo mv AltSchoolProject /var/www/html/html/
+- Provide
