@@ -33,5 +33,7 @@ sudo systemctl enable nginx*
 
 # Step 3:
 Let's create the HTML file, it has been pushed to this repository
-- First we create a directory in the ubuntu directory
-
+- First we create a directory in the ubuntu directory(altschoolproject)
+![image alt](https://github.com/Neduamagwu/AltSchoolCloudProject/blob/8c444e200d38a1723b6cb5a612238466c84b567e/MakeDir.JPG)
+- I opened another terminal where my .pem file is located in my laptop and copied the html directory to the directory I just made in my ubuntu folder
+![image alt]()
