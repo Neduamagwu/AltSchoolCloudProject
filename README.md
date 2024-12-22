@@ -20,7 +20,7 @@ Once you click on it, next will be to click on Launch instance
 # Let's Connect to the Instance
 
 We will use the key to ssh into the ubuntu server with the public ip, it will be like this:
-*ssh -i the.pem-key.pem ubuntu@<public-ip>*
+ssh -i "AltSchool_Keypair_2.pem" ubuntu@ec2-34-242-216-26.eu-west-1.compute.amazonaws.com
 
 # Step 2:
 Let's run some linux command after we have connected to the server
